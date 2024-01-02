@@ -1,0 +1,3 @@
+/home/lubo/git/cplusplus/BoostTutorial/chapter1/moveable.h
+/home/lubo/git/cplusplus/BoostTutorial/chapter1/moveable.cpp
+/home/lubo/git/cplusplus/BoostTutorial/chapter1/chapter.cpp
